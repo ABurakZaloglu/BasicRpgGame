@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\WereWolf\WereWolf\bin\Debug\WereWolf.exe.config
+C:\Users\Asus\source\repos\WereWolf\WereWolf\bin\Debug\WereWolf.exe
+C:\Users\Asus\source\repos\WereWolf\WereWolf\bin\Debug\WereWolf.pdb
+C:\Users\Asus\source\repos\WereWolf\WereWolf\obj\Debug\WereWolf.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\WereWolf\WereWolf\obj\Debug\WereWolf.Form1.resources
+C:\Users\Asus\source\repos\WereWolf\WereWolf\obj\Debug\WereWolf.Properties.Resources.resources
+C:\Users\Asus\source\repos\WereWolf\WereWolf\obj\Debug\WereWolf.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\WereWolf\WereWolf\obj\Debug\WereWolf.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\WereWolf\WereWolf\obj\Debug\WereWolf.exe
+C:\Users\Asus\source\repos\WereWolf\WereWolf\obj\Debug\WereWolf.pdb
